@@ -19,41 +19,15 @@ namespace LeetCoding
                 if (mi < m && ni < n)
                 {
                     nums1[i] = copynums1[mi] <= nums2[ni] ? copynums1[mi++] : nums2[ni++];
-                    //Console.WriteLine(copynums1[mi] <= nums2[ni] ? copynums1[mi++] : nums2[ni++]);
                 }
                 else if (mi < m)
                 {
                     nums1[i] = copynums1[mi++];
-                    //Console.WriteLine(copynums1[mi++]);
                 }
                 else if (ni < n)
                 {
                     nums1[i] = nums2[ni++];
-                    //Console.WriteLine(nums2[ni++]);
                 }
-            }
-
-            //var copynums1 = nums1;
-
-            //for (var i = 0; i < nums1.Length; i++)
-            //{
-            //    if (mi < m && ni < n)
-            //    {
-            //        nums1[i] = copynums1[mi] <= nums2[ni] ? copynums1[mi++] : nums2[ni++];
-            //    }
-            //    else if (mi < m)
-            //    {
-            //        nums1[i] = copynums1[mi++];
-            //    }
-            //    else if (ni < n)
-            //    {
-            //        nums1[i] = nums2[ni++];
-            //    }
-            //}
-            
-            foreach (var i in nums1)
-            {
-                Console.WriteLine(i);
             }
         }
     }
