@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\ryzen9\\source\\repos\\Leets\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{50139BDD-9DDB-44B5-962D-39FFF6A88136}|LeetCoding.csproj|c:\\users\\ryzen9\\source\\repos\\leets\\solutions\\88\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50139BDD-9DDB-44B5-962D-39FFF6A88136}|LeetCoding.csproj|solutionrelative:solutions\\88\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{50139BDD-9DDB-44B5-962D-39FFF6A88136}|LeetCoding.csproj|c:\\users\\ryzen9\\source\\repos\\leets\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{50139BDD-9DDB-44B5-962D-39FFF6A88136}|LeetCoding.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -35,11 +39,24 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Solution.cs",
+              "DocumentMoniker": "C:\\Users\\ryzen9\\source\\repos\\Leets\\Solutions\\88\\Solution.cs",
+              "RelativeDocumentMoniker": "Solutions\\88\\Solution.cs",
+              "ToolTip": "C:\\Users\\ryzen9\\source\\repos\\Leets\\Solutions\\88\\Solution.cs",
+              "RelativeToolTip": "Solutions\\88\\Solution.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T05:21:27.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ryzen9\\source\\repos\\Leets\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\ryzen9\\source\\repos\\Leets\\Program.cs*",
-              "RelativeToolTip": "Program.cs*",
+              "ToolTip": "C:\\Users\\ryzen9\\source\\repos\\Leets\\Program.cs",
+              "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-23T15:47:20.739Z",
